@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+	<ip>127.0.0.1</ip>
+	<cpu_used >80</cpu_used>
+	<memory_used >90</memory_used>
+	<disk_used>85</disk_used>
+	<cpu_temperature>45</cpu_temperature>
+</info>
